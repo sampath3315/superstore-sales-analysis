@@ -22,4 +22,4 @@ This project analyzes sales data using Python and Power BI.
 
 ## Dashboard Preview
 
-![Dashboard](Screenshot 2026-03-10 164224.png)
+![Dashboard](https://github.com/sampath3315/superstore-sales-analysis/blob/main/Screenshot%202026-03-10%20164224.png)
