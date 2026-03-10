@@ -22,4 +22,4 @@ This project analyzes sales data using Python and Power BI.
 
 ## Dashboard Preview
 
-![Dashboard](dashboard_preview.png)
+![Dashboard](Screenshot 2026-03-10 164224.png)
