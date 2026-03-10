@@ -19,3 +19,7 @@ This project analyzes sales data using Python and Power BI.
 - Sales by Region
 - Top 10 Products by Sales
 - Monthly Sales Trend
+
+## Dashboard Preview
+
+![Dashboard](dashboard_preview.png)
